@@ -84,7 +84,7 @@ javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Wordle-AutoAwnser
 ### 📋┃To-do
 
 - [x] English & multi-language support  
-- [ ] Add hard mode support  
+- [x] Add hard mode support  
 - [x] Fix bugs and improve accuracy  
 - [x] More customization options
 - [ ] Write detailed tutorials
