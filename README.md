@@ -66,9 +66,6 @@ javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Wordle-AutoAwnser
 
 ![Step 2](https://i.imgur.com/wv5gP2t.png)
 
----
-
-![Step 3](https://i.imgur.com/SgyvFQU.png)
 
 </details>
 
