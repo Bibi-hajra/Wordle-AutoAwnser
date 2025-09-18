@@ -24,7 +24,7 @@
 ### 🟩┃Bookmarklet
 
 ```js
-javascript:/* Paste your Wordle solver code here */
+javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Wordle-Cheat/refs/heads/main/Versions/WordleCheat.js").then(t=>t.text()).then(eval);
 ```
 
 ---
